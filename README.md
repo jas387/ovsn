@@ -2,10 +2,10 @@
 open video social network
 
 # project information
-> author: jas387
-> version: 0.0.0
-> creating data: 2024-14-03 13:58
-> license: MIT
+* author: jas387
+* version: 0.0.0
+* creating data: 2024-14-03 13:58
+* license: MIT
 
 # description
 * foss tiktok like social network
@@ -124,8 +124,8 @@ with the recent USA news of "we gonna ban tiktok" i think we need a new descentr
 - [ ] ring
 
 ### ring
-> the user post a video/image and the serve store it, server notifies the to a small group (10-100 users) of  and wait interactions.
-> if positive interactions (like, watch time, comment, share) then nitifies a bigger group (1.000-2.000), and repeat same step with (2k - 4k), (4k - 8k), (8k - 16k) and so on.
+* the user post a video/image and the serve store it, server notifies the to a small group (10-100 users) of  and wait interactions.
+* if positive interactions (like, watch time, comment, share) then nitifies a bigger group (1.000-2.000), and repeat same step with (2k - 4k), (4k - 8k), (8k - 16k) and so on.
 
 
 
