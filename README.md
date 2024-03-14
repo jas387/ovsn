@@ -21,7 +21,7 @@ open video social network
 with the recent USA news of "we gonna ban tiktok" i think we need a new descentralized social video app that allow us to free, opensource, no "private boxes" or government interference, in resume: freedom of speak.
 
 # goals
-## home UI
+## home
 - [ ] video/image swipe
 - [ ] potrait and landscape video mode
 - [ ] do not disturb
@@ -80,7 +80,7 @@ with the recent USA news of "we gonna ban tiktok" i think we need a new descentr
 - [ ] clear preferences
 
 ## reset preferences
-- [ ] algorigthm recommendations
+- [ ] algorithm recommendations
 
 ## block and report system
 - [ ] username
